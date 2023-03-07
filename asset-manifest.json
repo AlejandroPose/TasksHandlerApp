@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/taskshandlerapp/static/js/main.c2627e2a.js",
+    "index.html": "/taskshandlerapp/index.html",
+    "main.c2627e2a.js.map": "/taskshandlerapp/static/js/main.c2627e2a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c2627e2a.js"
+  ]
+}
